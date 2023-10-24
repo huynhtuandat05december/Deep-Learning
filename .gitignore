@@ -1,0 +1,11 @@
+**__pycache__**
+**__MACOSX**
+**.ipynb_checkpoints**
+*.pt
+*.pkl
+*.pth
+**data/
+__weights_backup
+data.zip
+flowers.zip
+processed-celeba-small.zip
